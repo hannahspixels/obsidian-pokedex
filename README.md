@@ -8,7 +8,7 @@ A collection of files for use with the application [Obsidian.md](https://obsidi
 - `aliases`
 	- Mega and Primal Pokémon have `Mega [name]` and `Primal [name]` aliases.
 	- Every regional Pokémon has the region-less name as an alias (e.g. `Kantonian Raichu` has a `Raichu` alias).
-	- Pokémon with alternate forms have an alias that would be more easily spoken (e.g. `Deoxys (Speed Forme))` has a `Speed Forme Deoxys` alias)
+	- Pokémon with alternate forms have an alias that would be more easily spoken (e.g. `Deoxys (Speed Forme))` has a `Speed Forme Deoxys` alias) as well as a name-only alias (e.g. `Deoxys`).
 - `type`
 	- Primary and secondary types.
 - `mega-type`
