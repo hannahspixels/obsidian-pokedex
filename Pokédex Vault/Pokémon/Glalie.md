@@ -8,7 +8,8 @@ mega type:
 national dex number: 362
 tags:
   - Hoenn
+  - Mega
 evolution line:
   - "[[Snorunt|Snorunt]]"
-associated: 
+associated:
 ---

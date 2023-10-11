@@ -10,6 +10,7 @@ mega type:
 national dex number: 303
 tags:
   - Hoenn
+  - Mega
 evolution line: 
 associated:
 ---

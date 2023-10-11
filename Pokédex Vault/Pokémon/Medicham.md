@@ -10,7 +10,8 @@ mega type:
 national dex number: 308
 tags:
   - Hoenn
+  - Mega
 evolution line:
   - "[[Meditite|Meditite]]"
-associated: 
+associated:
 ---
