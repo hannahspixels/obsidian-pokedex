@@ -1,6 +1,6 @@
 # obsidian-pokedex
 
-A collection of files for use with the application [Obsidian.md](https://obsidian.md/) as a Pokédex which can display relations between Pokémon in a highly interactive and visual manner. These files may also be integrated into a personal vault to add a quick and easy way to reference any Pokémon within Obsidian. This Pokédex covers numbers 1-1016.
+A collection of files for use with the application [Obsidian.md](https://obsidian.md/) as a Pokédex which can display relations between Pokémon in a highly interactive and visual manner. These files may also be integrated into a personal vault to add a quick and easy way to reference any Pokémon within Obsidian, or a quick and easy way to document any additional connections between Pokémon. This Pokédex covers numbers 1-1017.
 
 ---
 
@@ -23,3 +23,9 @@ A collection of files for use with the application [Obsidian.md](https://obsidi
 - `associated`
 	- Links to regional forms and alternate forms of that Pokémon.
 
+**Alternate Forms not presently included**:
+- Vivillon
+- Furfrou
+- Alcremie
+- Koraidon
+- Miraidon
